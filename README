@@ -3,7 +3,7 @@ Dicho proyecto pretende crear un pequeño mini juego que consta de tres botones 
 La idea del juego es que se enciendan las luces de manera aleatoria y cuando el usuario presione el botón correspondiente esta se apague, se registre un acierto y se encienda otra luz. El juego se detendrá al alcanzar los diez aciertos y sonará una pequeña canción de triunfo o derrota según sea el caso.
 
 ## Índice del Proyecto
-* [Ver Reporte en PDF](Reporte A1.2.pdf)
+* [Ver Reporte en PDF](Reporte_A1.2.pdf)
 * [Ver Código de Arduino](proyecto-1.ino)
-* [Ver Diagrama de Conexiones](Diagrama conexion A1.2.png)
-* [Ver Video de Funcionamiento](video muestra A1.2.mp4)
+* [Ver Diagrama de Conexiones](Diagrama_A1.2.png)
+* [Ver Video de Funcionamiento](Video_muestra_A1.2.mp4)
