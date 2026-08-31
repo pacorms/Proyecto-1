@@ -1,4 +1,3 @@
-//
 int LED1=13;
 int boton1=2;
 
