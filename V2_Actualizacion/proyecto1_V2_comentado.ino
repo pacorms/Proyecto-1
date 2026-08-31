@@ -61,7 +61,7 @@ void loop() {
         digitalWrite(LED3, LOW);//Ya que el usuario acertó, apagamos el LED que estaba encendido.
         presionado = true;//Cambiamos el estado de la variable que controla nuestro ciclo while para poder salir.
       }
-      else errores++;//Si el LED que estaba encendido no era el 2, el usuario se equivocó. Agregamos al contador de errores.
+      else errores++;//Si el LED que estaba encendido no era el 3, el usuario se equivocó. Agregamos al contador de errores.
     }
   }
   
